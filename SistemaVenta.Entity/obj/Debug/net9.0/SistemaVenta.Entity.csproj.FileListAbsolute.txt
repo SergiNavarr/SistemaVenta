@@ -1,0 +1,14 @@
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net9.0\SistemaVenta.Entity.deps.json
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net9.0\SistemaVenta.Entity.runtimeconfig.json
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net9.0\SistemaVenta.Entity.dll
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net9.0\SistemaVenta.Entity.pdb
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net9.0\SistemaVenta.Entity.csproj.AssemblyReference.cache
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net9.0\SistemaVenta.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net9.0\SistemaVenta.Entity.AssemblyInfoInputs.cache
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net9.0\SistemaVenta.Entity.AssemblyInfo.cs
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net9.0\SistemaVenta.Entity.csproj.CoreCompileInputs.cache
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net9.0\SistemaVenta.Entity.dll
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net9.0\refint\SistemaVenta.Entity.dll
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net9.0\SistemaVenta.Entity.pdb
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net9.0\SistemaVenta.Entity.genruntimeconfig.cache
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net9.0\ref\SistemaVenta.Entity.dll

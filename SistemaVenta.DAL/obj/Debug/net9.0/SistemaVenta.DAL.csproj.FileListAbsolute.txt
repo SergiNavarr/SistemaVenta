@@ -1,0 +1,15 @@
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net9.0\SistemaVenta.DAL.deps.json
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net9.0\SistemaVenta.DAL.dll
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net9.0\SistemaVenta.DAL.pdb
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net9.0\SistemaVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net9.0\SistemaVenta.DAL.AssemblyInfoInputs.cache
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net9.0\SistemaVenta.DAL.AssemblyInfo.cs
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net9.0\SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net9.0\SistemaVenta.DAL.dll
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net9.0\refint\SistemaVenta.DAL.dll
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net9.0\SistemaVenta.DAL.pdb
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net9.0\ref\SistemaVenta.DAL.dll
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net9.0\SistemaVenta.Entity.dll
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net9.0\SistemaVenta.Entity.pdb
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net9.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net9.0\SistemaV.EE7A9206.Up2Date
