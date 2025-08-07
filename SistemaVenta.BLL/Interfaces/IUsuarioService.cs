@@ -15,7 +15,7 @@ namespace SistemaVenta.BLL.Interfaces
         Task<Usuario> Crear(Usuario entidad, Stream? Foto = null, string Nombrefoto = "", string UrlPlantillaCorreo = "");
         Task<Usuario> Editar(Usuario entidad, Stream? Foto = null, string Nombrefoto = "");
         Task<bool> Eliminar(int IdUsuario);
-        Task<Usuario> ObrenerPorCredenciales(string Correo, string Clave);
+        Task<Usuario> ObtenerPorCredenciales(string Correo, string Clave);
         Task<Usuario> ObtenerPorId(int IdUsuario);
         Task<bool> GuardarPerfil(Usuario Entidad);
         Task<bool> CambiarClave(int IdUsuario, string ClaveActual, string NuevaClave);

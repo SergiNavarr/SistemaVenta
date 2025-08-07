@@ -123,9 +123,14 @@ namespace SistemaVenta.BLL.Implementacion
 
                 return usuario_creado;
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
-                throw new Exception($"Error al crear el usuario: {ex.Message}", ex);
+                // Opcional: loguear ex y ex.InnerException
+                var mensajeCompleto = ex.Message;
+                if (ex.InnerException != null)
+                    mensajeCompleto += " | Inner: " + ex.InnerException.Message;
+
+                throw new Exception($"Error al crear el usuario: {mensajeCompleto}", ex);
             }
         }
         public async Task<Usuario> Editar(Usuario entidad, Stream? Foto = null, string Nombrefoto = "")
@@ -148,6 +153,7 @@ namespace SistemaVenta.BLL.Implementacion
                 usuario_editar.Correo = entidad.Correo;
                 usuario_editar.Telefono = entidad.Telefono;
                 usuario_editar.IdRol = entidad.IdRol;
+                usuario_editar.EsActivo = entidad.EsActivo;
 
                 //Si no hay nombre de foto, usar el proporcionado
                 if (usuario_editar.NombreFoto == "")
@@ -207,7 +213,7 @@ namespace SistemaVenta.BLL.Implementacion
             }
         }
 
-        public async Task<Usuario> ObrenerPorCredenciales(string Correo, string Clave)
+        public async Task<Usuario> ObtenerPorCredenciales(string Correo, string Clave)
         {
             string clave_encriptada = _utilidadesService.ConvertirSha256(Clave);
 

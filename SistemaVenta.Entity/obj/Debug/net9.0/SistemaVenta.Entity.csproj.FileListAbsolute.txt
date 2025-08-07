@@ -7,6 +7,7 @@ C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\n
 C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net9.0\SistemaVenta.Entity.AssemblyInfoInputs.cache
 C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net9.0\SistemaVenta.Entity.AssemblyInfo.cs
 C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net9.0\SistemaVenta.Entity.csproj.CoreCompileInputs.cache
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net9.0\SistemaVenta.Entity.sourcelink.json
 C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net9.0\SistemaVenta.Entity.dll
 C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net9.0\refint\SistemaVenta.Entity.dll
 C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net9.0\SistemaVenta.Entity.pdb

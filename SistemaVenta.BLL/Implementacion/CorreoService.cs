@@ -55,10 +55,10 @@ namespace SistemaVenta.BLL.Implementacion
                     Host = Config["host"],
                     Port = int.Parse(Config["puerto"]),
                     DeliveryMethod = SmtpDeliveryMethod.Network,
+                    Credentials = credenciales,
                     UseDefaultCredentials = false,
                     EnableSsl = true
                 };
-                clienteServidor.Credentials = credenciales;
 
                 // Se envía el correo electrónico
                 clienteServidor.Send(correo);

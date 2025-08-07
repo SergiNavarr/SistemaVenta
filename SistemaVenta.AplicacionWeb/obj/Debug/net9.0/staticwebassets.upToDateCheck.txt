@@ -503,6 +503,7 @@ C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\wwwr
 C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\wwwroot\vendor\fontawesome-free\svgs\solid\sleigh.svg
 C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\wwwroot\vendor\fontawesome-free\svgs\regular\file-powerpoint.svg
 C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\wwwroot\vendor\fontawesome-free\svgs\solid\vihara.svg
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\wwwroot\js\vistas\Negocio_Index.js
 C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\wwwroot\vendor\fontawesome-free\svgs\solid\skull-crossbones.svg
 C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\wwwroot\vendor\fontawesome-free\svgs\brands\vimeo-square.svg
 C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\wwwroot\vendor\datatables\extensiones\css\buttons.dataTables.min.css
@@ -1250,6 +1251,7 @@ C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\wwwr
 C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\wwwroot\vendor\fontawesome-free\svgs\solid\border-all.svg
 C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\wwwroot\vendor\fontawesome-free\svgs\regular\calendar-alt.svg
 C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\wwwroot\vendor\fontawesome-free\svgs\solid\grip-lines.svg
+C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\wwwroot\js\vistas\Usuario_Index.js
 C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\wwwroot\vendor\fontawesome-free\svgs\brands\creative-commons-nc.svg
 C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\wwwroot\vendor\fontawesome-free\svgs\solid\comment-alt.svg
 C:\Users\nacho\source\repos\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\wwwroot\vendor\fontawesome-free\svgs\solid\road.svg
@@ -1720,6 +1722,8 @@ wwwroot\js\sb-admin-2.min.js
 wwwroot\js\vistas\chart-bar-demo.js
 wwwroot\js\vistas\chart-pie-demo.js
 wwwroot\js\vistas\datatables-demo.js
+wwwroot\js\vistas\Negocio_Index.js
+wwwroot\js\vistas\Usuario_Index.js
 wwwroot\scss\_buttons.scss
 wwwroot\scss\_cards.scss
 wwwroot\scss\_charts.scss

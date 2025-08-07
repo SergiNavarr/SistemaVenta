@@ -34,9 +34,9 @@ namespace SistemaVenta.BLL.Implementacion
 
             //Crear una instancia de Account con los datos obtenidos
             var cuenta = new Account(
-                config["cloudName"],
-                config["apiKey"],
-                config["apiSecret"]
+                config["cloud_name"],
+                config["api_key"],
+                config["api_secret"]
             );
 
             return new Cloudinary(cuenta);
